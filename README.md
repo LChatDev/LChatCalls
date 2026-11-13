@@ -16,3 +16,5 @@
 Дополнительные репозитории / Dedicated guides: [LChatCalls](https://github.com/LChatDev/LChatCalls) · [LChatFree](https://github.com/LChatDev/LChatFree).
 
 - Бесплатный домен / Free hostname: [Русский](FREE_DOMAIN_RU.md) · [English](FREE_DOMAIN_EN.md)
+
+- [Пособие: бесплатный хостинг и звонки](https://github.com/LChatDev/LChatFree/blob/main/CALLS_AND_HOSTING_RU.md)
